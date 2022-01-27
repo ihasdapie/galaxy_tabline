@@ -18,11 +18,12 @@ This now frees up a ton of space in the actual tabline area for displaying more 
 
 ## Usage/Installation
 
-1. Clone the repo/download `galaxyline_config.lua`
+1. Clone the repo 
 2. Put it in your `.config/nvim/lua/` folder or wherever you want it to be.
 3. `source` it in your `init.vim` file, i.e. `lua require('galaxyline_config')`
 
-> Note: This plugin requires `nvim` > 0.5 and [galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim)
+> This plugin requires `nvim` > 0.5 and [galaxyline.nvim](https://github.com/NTBBloodbath/galaxyline.nvim)   
+> Depending on your folder structure you may want to move `utils/galaxyline_utils.lua` around and change the corresponding `require` in `galaxyline_config.lua`.
 
 
 
