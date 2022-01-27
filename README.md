@@ -3,8 +3,7 @@
 Galaxy-tabline is a fully-featured neovim status line that integrates a tabline [into the status line!].
 It also supports a number of other features such as [`coc.nvim`](https://github.com/neoclide/coc.nvim) integration.
 
-![image_2022-01-26-12-01-04](img/image_2022-01-26-12-01-04.png)
-
+![example](img/example.png)
 
 ## Rationale
 Have you ever taken a good look at your `vim` set up and realize that the status line leave a *lot* of unused space, especially in the statusline area?
