@@ -5,6 +5,9 @@ It also supports a number of other features such as [`coc.nvim`](https://github.
 
 ![example](img/example.png)
 
+
+> Note: the tabline feature is currently broken on the nighly neovim build -- reason is yet to be determined.
+
 ## Rationale
 Have you ever taken a good look at your `vim` set up and realize that the status line leave a *lot* of unused space, especially in the statusline area?
 
